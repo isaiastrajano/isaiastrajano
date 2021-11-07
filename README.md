@@ -5,3 +5,4 @@
 - 📫 Meu e-mail: isaiastenorio@gmail.com e linkedIN: Isaias Trajano
 
 - Atualmente tenho um repositório com exercícios de um bootcamp de datascience de python e pretendo atualizar com frequência o meu progresso.
+- Trabalhei em um projeto voluntário a qual fui cofundador, de levantamento de dados por pesquisa web da vulnerabilidade referente ao coronavirus dos moradores da rocinha(bairro onde eu moro). link do dashboard: https://bit.ly/3119FxB
