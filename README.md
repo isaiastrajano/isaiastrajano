@@ -5,4 +5,11 @@
 - 📫 Meu e-mail: isaiastenorio@gmail.com e linkedIN: Isaias Trajano
 
 - Atualmente tenho um repositório com exercícios de um bootcamp de datascience de python e pretendo atualizar com frequência o meu progresso.
-- Trabalhei em um projeto voluntário a qual fui cofundador, de levantamento de dados por pesquisa web da vulnerabilidade referente ao coronavirus dos moradores da rocinha(bairro onde eu moro). link do dashboard: https://bit.ly/3119FxB
+-
+-
+- Trabalhei em um projeto voluntário a qual fui cofundador, o objetivo do projeto foi de levantar dados sobre os impactos da pandemia do coronavírus na favela da Rocinha, RJ. Dados foram coletados via pesquisa web sobre as condições de saúde fisiológica e mental, condições de moradia, acesso a alimentação, sintomas de doenças e principais meios de informação, etc.
+Desenvolvi e coordenei junto a equipe a pesquisa social, tratamento dos dados e elaboração de um dashboard interativo para visualização dos dados coletados.
+Foram utilizadas as tecnologias: Google Forms, Google Sheets e Power BI.
+O projeto teve sua importância reconhecida como uma ferramenta de informação social por órgãos de saúde locais e jornalismo comunitário.
+
+Link do Dashboard: https://bit.ly/3119FxB
