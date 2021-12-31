@@ -1,8 +1,3 @@
-- 
-- 
-- 
-- 
-- 
 - 👋 Olá, me chamo Isaias Trajano, cursei análise e desenvolvimento de sistemas na Estácio de Sá dentre outros cursos e treinamento disponíveis no meu perfil, atualmente trabalho como técnico em eletrônica em uma multinacional e tenho interesse em migrar de área profissional e trabalhar com dados.
 - 
 - 👀 Venho estudando e desenvolvendo conhecimento e competências nas áreas de Ciência de Dados, Business Intelligence, Power BI, Python, Machine Learning, Business Intelligence, SQL e Data Driven.
